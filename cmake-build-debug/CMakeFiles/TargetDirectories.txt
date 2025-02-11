@@ -1,0 +1,3 @@
+C:/Users/uchauhan/CLionProjects/mini_in_memory_db/cmake-build-debug/CMakeFiles/mini_in_memory_db.dir
+C:/Users/uchauhan/CLionProjects/mini_in_memory_db/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/uchauhan/CLionProjects/mini_in_memory_db/cmake-build-debug/CMakeFiles/rebuild_cache.dir
