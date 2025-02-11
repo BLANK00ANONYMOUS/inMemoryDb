@@ -13,3 +13,15 @@ A simple C++ in-memory database supporting:
 ## Build & Run
 ```bash
 make && ./mini_db
+
+
+mini_in_memory_db/
+├── include/
+│   ├── Database.h
+│   └── Table.h
+├── src/
+│   ├── Database.cpp
+│   ├── Table.cpp
+│   └── main.cpp
+├── Makefile
+└── README.md
